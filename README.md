@@ -1,6 +1,6 @@
 # MOLECOLE - A Modular LED Controller Workstation
 
-[![Build Status](https://travis-ci.org/segfault16/audio-reactive-led-strip.svg?branch=develop)](https://travis-ci.org/segfault16/audio-reactive-led-strip)
+[![Build Status](https://github.com/Utrisoft/modular-led-controller-workstation/tree/master)](https://github.com/Utrisoft/modular-led-controller-workstation)
 
 MOLECOLE is a real-time LED controller for the Raspberry Pi. 
 
